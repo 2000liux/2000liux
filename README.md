@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About Me 😄
-- Apache Flink contributor
+- Apache Flink 
 - 
 - 🌱 I’m currently learning [Flink、StreamPark、Seatunnel、Hudi、Flink On Delta]
 - 👯 I’m looking to collaborate on 阅读源码、Submit Pull requests
